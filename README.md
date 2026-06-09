@@ -1,4 +1,6 @@
-AusScan.sh — Network Scanner
+___
+
+> AusScan.sh — Network Scanner
 A lightweight Bash tool for quick network reconnaissance directly from the terminal. No external tools required beyond a standard Unix environment.
 Features
 
@@ -10,7 +12,7 @@ Features
 --aips — Discover all active hosts across the full 192.168.0.0/16 range
 ```
 
-Usage:
+> Usage:
 ```bash
 chmod +x AusScan.sh
 ./AusScan.sh -ap      # Scan all ports
@@ -20,4 +22,6 @@ chmod +x AusScan.sh
 ./AusScan.sh --aips   # Discover active hosts (192.168.x.x)
 ```
 
-⚠️ For educational and authorized use only. Do not run against networks or systems you don't own or have explicit permission to test.
+> ⚠️ For educational and authorized use only. Do not run against networks or systems you don't own or have explicit permission to test.
+
+___
