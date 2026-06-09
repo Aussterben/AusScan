@@ -22,6 +22,8 @@ chmod +x AusScan.sh
 ./AusScan.sh --aips   # Discover active hosts (192.168.x.x)
 ```
 
+![](https://raw.githubusercontent.com/Aussterben/AusScan/refs/heads/main/menu.png)
+
 > ⚠️ For educational and authorized use only. Do not run against networks or systems you don't own or have explicit permission to test.
 
 ___
