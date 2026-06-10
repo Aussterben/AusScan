@@ -77,7 +77,7 @@ opciones(){
       fi
       ;;
     -p)
-      read -p "[+] Indica un puerto: " ip2
+      read -p "[+] Indica una IP: " ip2
       timeout 2 ping -c 1 $ip2 &>/dev/null
       if [ ! $? -eq 124 ]; then
         read -p "[+] Indica el puerto: " uniqport
@@ -138,7 +138,7 @@ opciones(){
       echo -e "\t${blueColour}-ips)${endColour}${grayColour} [Ips] Escanea todas las IPs activas en la '192.168.0.x'${endColour}"
       echo -e "\t${blueColour}-ip)${endColour}${grayColour} [Ip] Escanea una IP elegida por el usuario en la red${endColour}"
       echo -e "\t${blueColour}--aips)${endColour}${grayColour} [All Ips] Escanea todas las IPs activas en la '192.168.x.x'${endColour}"
-      echo -e "\n${redColour}[+] Version 1.1${endColour}"
+      echo -e "\n${redColour}[+] Version 1.0${endColour}"
   esac
 }
 # Recuperamos el cursor
