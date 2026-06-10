@@ -4,7 +4,7 @@
 #            Script By Aussterben            #
 ##############################################
 
-# Recuerda dar permisos de ejecución con "chmod +x filter.sh"
+# Recuerda dar permisos de ejecución con "chmod +x AusScan.sh"
 
 #Colours
 greenColour="\e[0;32m\033[1m"
