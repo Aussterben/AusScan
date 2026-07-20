@@ -89,3 +89,5 @@ este script.**
 Este script se distribuye "tal cual" (*as is*), sin garantía de
 ningún tipo, expresa o implícita, incluyendo pero no limitado a
 garantías de idoneidad para un propósito particular.
+
+![](https://raw.githubusercontent.com/Aussterben/AusScan/refs/heads/main/menu.png)
